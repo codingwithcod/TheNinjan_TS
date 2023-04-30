@@ -1,4 +1,4 @@
-# TheAbhiPATEL portfolio
+# TheNinjan portfolio
 
 ### with typescript and section componets
 
